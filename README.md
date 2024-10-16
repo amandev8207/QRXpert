@@ -62,7 +62,7 @@ To deploy this project run
 
 ## Demo
 
-[https://github.com/amandev8207/QRXpert](https://github.com/amandev8207/QRXpert.git)
+https://qrxpert-2.onrender.com/
 
 
 ## License
